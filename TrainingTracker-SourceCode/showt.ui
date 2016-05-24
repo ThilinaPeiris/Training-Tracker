@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>showt</class>
+ <widget class="QDialog" name="showt">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>571</width>
+    <height>381</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">#showt{
+background-color: qlineargradient(spread:reflect, x1:0.0452273, y1:0.704, x2:1, y2:0, stop:0 rgba(30, 137, 174, 255), stop:1 rgba(255, 255, 255, 255));
+background-color: qlineargradient(spread:reflect, x1:0.0452273, y1:0.704, x2:0.972, y2:0.0568182, stop:0.142045 rgba(30, 137, 174, 255), stop:0.9375 rgba(255, 255, 255, 255));
+}</string>
+  </property>
+  <widget class="QTableView" name="tableView_showt">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>20</y>
+     <width>531</width>
+     <height>341</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">#tableView_showt{
+font-weight: bold;
+font-size: 12px;
+background-color:#EBF5FB;
+}</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
