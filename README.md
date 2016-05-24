@@ -9,3 +9,21 @@
 
 #Development
   This software developed using Qt 5.2.1 framework in windows environment. To build this application, clone source and database files to your desktop, open Qt project file (TrainingTracker.pro) using Qt Creator and build the project. Copy database file (TrainingTracker.sqlite) in the TrainingTracker-DatabaseFiles folder and paste it into your corresponding Qt TrainingTracker project debug/release folder. Then Run the application using Qt Creator.
+
+#License
+
+    Training Tracker is a software to maintain employee-training information.
+    Copyright (C) 2016 bhagy91
+
+    This program is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with this program.  If not, see <http://www.gnu.org/licenses/>.
