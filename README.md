@@ -8,4 +8,4 @@
   4.	After adding all the information about employee and training click “Refresh”. Table will be filled with your information. You can      show, modify, and sort data as you prefer.
 
 #Development
-    This software developed using Qt 5.2.1 framework in windows environment. To build this application, clone source and database files to your desktop, open Qt project file (TrainingTracker.pro) using Qt Creator and build the project. Add database file (TrainingTracker.sqlite) to your corresponding Qt TrainingTracker project debug/release folder. Then Run the application using Qt Creator.
+  This software developed using Qt 5.2.1 framework in windows environment. To build this application, clone source and database files to your desktop, open Qt project file (TrainingTracker.pro) using Qt Creator and build the project. Copy database file (TrainingTracker.sqlite) in the TrainingTracker-DatabaseFiles folder and paste it into your corresponding Qt TrainingTracker project debug/release folder. Then Run the application using Qt Creator.
